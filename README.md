@@ -71,7 +71,7 @@ Q.5 Write a SQL query to create each shift and number of orders (Example Morning
 
 This project serves as a comprehensive introduction to SQL for data analysts, covering database setup, data cleaning, exploratory data analysis, and business-driven SQL queries. The findings from this project can help drive business decisions by understanding sales patterns, customer behavior, and product performance.
 
-##Author
+##Author  
 **Pranali Gambhir**  
 **Aspring Data Analyst**  
 Skills :  
@@ -79,6 +79,7 @@ Skills :
 **Power BI**  
 **Excel**  
 **Python**
+
 
 
 
