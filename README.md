@@ -19,11 +19,12 @@ The dataset includes details such as transaction IDs,customers,product,categorie
 
 **DATA EXPLORATIOIN**
 
-Q.1 Write a sql query to view first 10 rows 
-Q.2 Write a sql query to count total number of transactions 
-Q.3 Write a sql query to find the number of unique customers
-Q.4 Write a SQL query to retrieve all columns for sales made on '2022-11-05
-Q.5 Write a SQL query to retrieve all transactions where the category is 'Clothing' and the quantity sold is more than 10 in the month of Nov-2022
+Q.1 Write a sql query to view first 10 rows  
+Q.2 Write a sql query to count total number of transactions  
+Q.3 Write a sql query to find the number of unique customers  
+Q.4 Write a SQL query to retrieve all columns for sales made on '2022-11-05  
+Q.5 Write a SQL query to retrieve all transactions where the category is 'Clothing' and the quantity sold is more than 10 in the month of Nov-2022  
+
 
 **SALES AND REVENUE ANALYSIS**
 
@@ -74,6 +75,7 @@ Skills :
 **Power BI**
 **Excel**
 **Python**
+
 
 
 
